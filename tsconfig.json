@@ -1,0 +1,12 @@
+{
+  "include": [
+    "*",
+  ],
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "nodenext",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "strict": true,
+  }
+}
